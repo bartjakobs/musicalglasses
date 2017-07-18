@@ -6,6 +6,7 @@ You might not want to look at the code in its current state, if you do, Pull Req
 
 It connects through an Arduino (or other board with the Firamata firmware).
 The servos.json file is used to map tones to sero motors.
+
 ![It works][example]
 
 ## Examples:
