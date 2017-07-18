@@ -1,0 +1,45 @@
+[{
+	"pin": 11,
+	"angles": {
+		"left": 102,
+		"center": 90,
+		"right": 78
+	},
+	"tones": {
+		"left": "G#3",
+		"right": "A#3"
+	}
+}, {
+	"pin": 10,
+	"angles": {
+		"left": 110,
+		"center": 95,
+		"right": 85
+	},
+	"tones": {
+		"left": "B-3",
+		"right": "C#4"
+	}
+}, {
+	"pin": 9,
+	"angles": {
+		"left": 87,
+		"center": 79,
+		"right": 69
+	},
+	"tones": {
+		"left": "D#4",
+		"right": "E-4"
+	}
+}, {
+	"pin": 8,
+	"angles": {
+		"left": 91,
+		"center": 84,
+		"right": 76
+	},
+	"tones": {
+		"left": "F#4",
+		"right": "G#4"
+	}
+}]

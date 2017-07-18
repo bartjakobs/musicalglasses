@@ -1,0 +1,22 @@
+{
+  "name": "musicalglasses",
+  "description": "Code to make glasses make music using servo motors and a firmata-connected board.",
+  "version": "0.0.1",
+  "main": "lib/glass.js",
+  "author": "Bart Jakobs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caolan/async.git"
+  },
+  "keywords": [
+    "midi",
+    "hardware",
+    "music"
+  ],
+  "dependencies": {
+    "firmata": "^0.17.0",
+    "keypress": "^0.2.1",
+    "midi": "^0.9.5",
+    "midi-converter": "^0.1.5"
+  }
+}
